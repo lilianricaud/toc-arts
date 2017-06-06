@@ -1,0 +1,60 @@
+---
+ID: 8984
+post_title: >
+  Combien gagne un musicien DIY sur les
+  plateformes de streaming et de vente en
+  ligne ?
+author: Lilian
+post_date: 2012-10-03 07:30:26
+post_excerpt: ""
+layout: post
+permalink: >
+  http://toc-arts.org/blog/2012/10/03/combien-gagne-un-musicien-diy-sur-les-plateformes-de-streaming-et-de-vente-en-ligne/
+published: true
+---
+*[<img class="size-thumbnail wp-image-8994 alignleft" title="uniform-motion-musiciens-diy" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/uniform-motion-musiciens-diy-150x150.jpeg" alt="" width="150" height="150" />][1]Voici un témoignage du groupe Uniform motion qui était revenu il y a quelques temps sur ce qu'ils gagnent sur le **le streaming et *les ventes en ligne  en tant que musiciens DIY. Je regroupe ici 2 articles originellement publiés en anglais sur [le blog d'Uniform Motion][2] et que j'ai traduit. Le premier donne des chiffres des ventes et de stream sur la période 2010 tandis que le deuxième fait une mise à jour des chiffres pour 2011. Je trouve ces articles intéressants car il donnent à voir une réalité du métier de musicien de nos jours et sur la difficulté de vendre assez de musique pour faire un bénéfice réel. Si l'abondance de plateformes de vente et la facilité d'utilisation permettent de vendre sur toute la planète, en pratique il faut vendre un certain volume pour que cela devienne rentable de vendre sa musique. Le streaming, présenté comme une alternative possible, semble lui aussi limité dans sa capacité à soutenir la scène musicale, au moins à l'heure actuelle. <span style="text-decoration: underline;">Note</span>: J'ai traduit rapidement et vous m'excuserez s'il reste des fautes ou du franglais (suggestions bienvenues en commentaires) 
+##  Combien gagne un musicien DIY sur ses ventes en ligne
+
+*Article original [Release day economics][3] écrit par Andy du groupe [Uniform Motion][4].*   Notre nouvel album est "officiellement" sorti aujourd'hui. Cela veut dire que vous retrouverez une version digitale sur les différents sites de vente en ligne comme iTunes, AmazonMP3 et eMusic, et que vous pourrez les lire en streaming depuis des seevices comme Spotify ou Deezer. Les versions physiques (CD et vinyles) sont seulement disponibles depuis notre Bandcamp et aux concerts. Malheureusement, vous ne pourrez trouver notre album dans aucun magasin de musique. La raison: nous n'avons pas de label, ce qui signifie que nous n'avons pas accès à la distribution. Sans distributeur, vous ne pouvez pas vendre votre CD dans les magasins de musiques. Si vous travailler pour un distributeur et que vous êtes interessé pour distribuer notre CD, vinyle ou les deux, n'hésitez pas à nous contacter ! Si vous acheter notre musique ou utiliser un des services "légaux" de streaming, voici un aperçu de là où va l'argent. 
+### <img class=" wp-image-8996 alignleft" title="spotify-revenus" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/spotify-revenus-150x150.jpeg" alt="" width="108" height="108" />Spotify Sur Spotify, le ppaiement par stream est en moyenne de 0,003€. Donc si vous écoutez notre album en entier, nous obtiendrons 0,029€ Si vous écoutez l'album 10 fois sur Spotify, nous obtiendrons 0,29€ Si vous écoutez l'album 100 fois, nous obtiendrons 2,94€ Si vous écoutez l'album 1000 fois (une fois par jour pendant 3 ans!), nous obtiendrons 29,47€ ! Si vous utilisez la version gratuite de spotify, cela ne vous coutera rien. Spotify gagnera de l'argent avec les publicités. Si vous utilisez une des versions payantes, nous ne savons pas du tout comment ils calculent le partage de revenus. Ils livrent seulement cette informations aux majors… 
+
+### <img class="size-full wp-image-8997 alignleft" title="deezer-revenus" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/deezer-revenus.jpeg" alt="" width="93" height="88" />Deezer Deezer semble payer un peu plus. Nous avons reçu 0,006€ par lecture de leur part. Ca fait 0,052€ par album écouté. Si vous écoutez l'album 10 fois sur Deezer, nous obtiendrons 0.52€ Si vous écoutez l'album 100 fois, nous obtiendrons 5,2€ Si vous écoutez l'album 1000 fois (une fois par jour pendant 3 ans!), nous obtiendrons 52€ ! Nous ne savons pas non plus comment eux partagent les revenus.     
+
+### <img class=" wp-image-8998 alignleft" title="emusic-revenus" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/emusic-revenus-150x150.jpeg" alt="" width="105" height="105" />eMusic eMusic est un service sur abonnement. Le coût d'un album dépend du plan que vous avez. Nous recevons à peu près 0.29$ par chanson ou 2.60$ par album (9 chansons).     
+
+### <img class=" wp-image-8999 alignleft" title="amazon-mp3-revenus" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/amazon-mp3-revenus-150x150.jpeg" alt="" width="105" height="105" />Amazon MP3 Vous payez 7.11€ pour télécharger les mp3s. Nous recevons 4.97€ la dessus. Cela fait un partage 70/30.       
+
+### <img class=" wp-image-9000 alignleft" title="itunes-revenus" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/itunes-revenus-150x150.jpeg" alt="" width="105" height="105" />iTunes L'album vous coutera 8.91€ si vous l'achetez chez Apple. Il y a un partage 70/30 la aussi, nous garderons donc 6.28€ par album. Cela dit, cela nous coute aussi 35€/an pour garder un album sur iTunes, Spotify et Amazon (105€/an pour tout nos 3 albums). Nous gagnons donc pas d'argent tant que 24 personnes n'ont pas acheté une version digitale de l'album sur iTunes ou 150 chansons, ou si nous obtenons pas des dizaines de milliers d'écoute sur Spotify ! En fait, dans la plupart des cas, ce n'est pas du tout viable économiquement de vendre sa musique [Note du traducteur, c'est un des argument de Ian Roger dans sa
+
+[ stratégie pour vendre sa musique comme une rockstar][5]] Mais si vous achetez directement chez nous ?   
+### [<img class="size-full wp-image-9001 alignleft" title="bandcamp-icon" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/bandcamp-icon.png" alt="" width="120" height="121" />][6]Vente directe avec Bandcamp
+
+#### Digital: Nous laissons les gens choisir ce qu'il veulent payer pour la version digitale. Si vous choisissez de payer 5€, Paypal prend 0,37€, Bandcamp prends 0.75€. Uniform Motion garde 3.88€. Cela ne nous coûte rien d 'avoir une page sur Bandcamp. Si vous décidez de ne rien payer, et bien nous n'avons rien, mais au moins vous n'avez donné aucun argent indirectement à une major, comme cela semble être le cas avec Spotify ! 
+
+#### <img class=" wp-image-9002 alignleft" title="revenus-CD" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/revenus-CD-150x126.jpeg" alt="" width="122" height="102" />CD: si vous achetez un CD directement chez nous pour 10€, Paypal prends 0.515€, Bandcamp prends 1.5€. Il y a donc un peu moins de 8€ pour nous. Mais, attendez une seconde, cela coûte un peu plus de faire un CD. Le CD lui même coute 1.2€, le livret coute environ 50 centimes, le packaging du CD est 1.8€ et le stocker sur le devant coûte 35 centimes. Ca fait un total de 3.65€. Donc en réalité, il reste 4.34€ pour nous. 
+
+<h4 style="text-align: left;">
+  <img class=" wp-image-9003 alignleft" title="revenus-vinyle" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/revenus-vinyle-150x126.jpeg" alt="" width="120" height="101" />Vinyle:
+</h4> Si vous achetez un vinyle 12'' à 15€ chez nous, Bandcamp prends 2.25€, Paypal prends 0,646€. Il nous reste donc 12€10. Le coût du vinyle lui même est 3,06€, les étiquettes coutent 1.3€, soit un total de 4.36€. Il reste donc 7.75€ pour nous. Cependant nous avons du presser 250 copies (commande minimum). Nous devons vendre 72 exemplaires avant de rétablir la balance sur la production de vinyles. Nous en avons vendus 30 jusqu'à présent. Si nous arrivons à l'équilibre financier, nous baisserons un peu les prix. :) 
+
+**Modification (14/09/2011)** Quelques personnes nous ont posés des questions sur les chiffres des vinyles. Ces chiffres peuvent être un peu confus, alors alors voici des précisions. Nous avons commandé 250 copies parce que c'est le nombre minimum pour une commande de vinyles (la plus petite quantité que nous avons pu trouver). Pour garder les coûts le plus bas possible nous avons choisi une pochette blanche sans rien puis nous l'avons personnalisée avec un sticker. Il y a donc un sticker sur le devant de chaque vinyle. Et nous avons décidé d'en mettre un avec le nom du fan sur le dos de chaque album pour les 50 premières commandes. 250 copies (vinyle noir double face avec pochette blanche) nous ont couté 775€. Soit 3,1€ par copie. Le sticker du devant coute 0.6€, celui de derrière 0.70€. Les chiffres sont bizarres parceque nous n'avons pas commandés 250 stickers. Nous en commanderons plus si nous vendons assez de copies de l'album, mais si nous n'en vendons que 50 ou 100 pourquoi en acheter plus. Nous n'avons pas eu le choix avec les vinyls, mais nous l'avons eu avec les stickers. Nous avons donc commandé seulement 75 stickers pour le devant et 50 stickers personnalisés pour le derrière, mais mes chiffres sonr basés sur 75 de chaque. 775 + 45 (0.6 X 75) + 52.5 (0.7 X 75) = 872.5 € 872.5 / 12.1 (prix net pour chaque copie) = 72.107 C'est de la que vient le chiffre 72. Ca aurait probablement du être 73 copies pour équilibrer les comptes, mais hé, je suis un musicien pas un comptable ! :) 
+## Combien gagne un musicien DIY sur ses ventes en ligne ? La suite...
+
+*Article original [Update to Release day economics][7] écrit par Andy de [Uniform Motion][4].*   
+### Mise à jour de l'article Release day economics Les données for iTunes, eMusic, etc n'ont pas changé depuis que nous avons publié Release day economics en septembre 2011, mais les paiement de services de streaming comme Spotify et Deezer ont augmentés de facon significative alors nous avons pensé vous donner une mise à jour des chiffres. 
+
+### <img class=" wp-image-8996 alignleft" title="spotify-revenus" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/spotify-revenus-150x150.jpeg" alt="" width="105" height="105" />Spotify Les paiements de Spotify ont augmentés de 56% en 2011 comparé à 2010. Le paiement par stream etait en moyenne 0,003€ en 2010. En 2011 la moyenne est monté à 0,0047€ par lecture. Donc si vous écoutez notre album en entier, nous obtiendrons 0,042€ Si vous écoutez l'album 10 fois sur Spotify, nous obtiendrons 0,42€ Si vous écoutez l'album 100 fois, nous obtiendrons 4,23€ Si vous écoutez l'album 1000 fois (une fois par jour pendant 3 ans!), nous obtiendrons 42,30€   
+
+### <img class="size-full wp-image-8997 alignleft" title="deezer-revenus" src="http://toc-arts.org/blog/wp-content/uploads/2012/10/deezer-revenus.jpeg" alt="" width="93" height="88" />Deezer Les paiements de Deezer ont augmentés de 116% en 2011 comparé à 2010. Récemment, nous avons reçu 0,0127€ par lecture. Ca fait 0,11€ par album écouté. Si vous écoutez l'album 10 fois sur Deezer, nous obtiendrons 1,14€ Si vous écoutez l'album 100 fois, nous obtiendrons 10,14€ Si vous écoutez l'album 1000 fois (une fois par jour pendant 3 ans!), nous obtiendrons 100,14€ ! 
+
+## A suivre Je vous laisse découvrir leur musique, et maintenant que vous avez où va l'argent, n'hésitez pas à acheter. 
+
+<iframe style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=2603049435/size=venti/bgcol=FFFFFF/linkcol=4285BB/" frameborder="0" width="400" height="100"></iframe>
+
+ [1]: http://toc-arts.org/blog/wp-content/uploads/2012/10/uniform-motion-musiciens-diy.jpeg
+ [2]: http://uniformmotion.tumblr.com/
+ [3]: http://uniformmotion.tumblr.com/post/9659997039/release-day-economics
+ [4]: http://uniformmotion.net
+ [5]: http://toc-arts.org/blog/2011/02/27/la-strategie-de-ian-roger-pour-promouvoir-et-vendre-sa-musique-comme-une-rock-star/
+ [6]: http://toc-arts.org/blog/wp-content/uploads/2012/10/bandcamp-icon.png
+ [7]: http://uniformmotion.tumblr.com/post/18906123942/update-to-release-day-economics

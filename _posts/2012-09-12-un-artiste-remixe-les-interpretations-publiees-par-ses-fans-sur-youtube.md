@@ -1,0 +1,20 @@
+---
+ID: 8925
+post_title: 'Un artiste remixe les interprétations d&rsquo;une de ses chansons publiées par ses fans sur youtube'
+author: Lilian
+post_date: 2012-09-12 08:05:06
+post_excerpt: ""
+layout: post
+permalink: >
+  http://toc-arts.org/blog/2012/09/12/un-artiste-remixe-les-interpretations-publiees-par-ses-fans-sur-youtube/
+published: true
+---
+*On connaissait les fans qui font de reprises de leur artistes préférés. On connaissait les artistes qui remixent les chansons d'autres artistes. On avait aussi vu [un fan faire un clip pour Radiohead en mixant des vidéos publiées par d'autres fans][1] sur Youtube. * *Et bien dans la même lignée, voici un artiste dont les chansons ont été reprises par de nombreux fans et qui, plutôt que de bloquer leur diffusion comme beaucoup d'ayant-droits l'auraient fait, a choisi de remixer ces versions "pirates" pour en faire une nouvelle oeuvre.* <iframe src="http://www.youtube.com/embed/opg4VGvyi3M" frameborder="0" width="560" height="315"></iframe> Je reprends ici un [article de Guillaume Champeau publié sur Numérama][2] qui décrit mieux le contexte: 
+> On savait que Gotye faisait de belles chansons. On saura maintenant qu'il les fait avec coeur et intelligence. Le musicien a mis en ligne dimanche un clip, repéré par <a href="http://www.nikopik.com/2012/08/quand-un-artiste-reprend-les-versions-pirates-de-ses-fans-pour-en-faire-un-oeuvre-magnifique.html" target="_blank">Nikopik</a>, qui est un remix de nombreuses reprises de son hit "*Somebody that I used to know*" publiées sur YouTube. "J*e n'ai pas pu résister à l'énorme remixabilité que m'offrait un tel ensemble de matière première, variée et connectée à la fois*", explique l'auteur <a href="http://www.youtube.com/watch?v=opg4VGvyi3M&feature=player_embedded" target="_blank">sur YouTube</a>. Gotye a réutilisé les chansons sans y ajouter le moindre son. Il a simplement joué sur le mixage pour réaliser cette unification, au résultat franchement très réussi. Sur son blog, l'artiste publie les adresses de l'ensemble des créations utilisées, en donnant à la fois l'URL de la vidéo, et celle de l'internaute. Une belle manière de les remercier d'avoir choisi de réinterpréter et de diffuser leur version de *Somebody that I used to know*, même sans en avoir demandé l'autorisation ou sans avoir versé de royalties, comme la loi américaine l'exige. Par ailleurs, l'oeuvre de remix de l'artiste démontre le danger des DRM à outrance, s'ils étaient efficaces. Gotye explique en effet qu'il a utilisé <a href="http://www.keepvid.com/" target="_blank">KeepVid.com</a> pour pouvoir télécharger les vidéos de YouTube, et les importer ensuite dans Ableton Live et After Effects. Or le fait de télécharger les vidéos est interdit par le contrat de YouTube, et Google est récemment parti en chasse [contre les outils de téléchargement et de conversion pour YouTube][3]. Si l'on vivait dans un monde où les volontés contractuelles étaient respectées et incontournables, Gotye n'aurait pas pu réaliser son hommage. Article diffusé sous [licence Creative Common by-nc-nd 2.0][4], écrit par Guillaume Champeau pour [Numerama.com][2]   Si vous êtes curieux vous pouvez voir le détail des (nombreuses !) vidéos youtube utilisées sur le [site de Nikopic][5] qui a reperé l'info en premier. Un autre exemple de l'évolution de la culture d'un modèle basé sur un droit d'auteur fermé vers un modèle ouvert qui favorise [les collaborations, les remix][6] et la créativité.
+
+ [1]: http://toc-arts.org/blog/2011/06/23/un-fan-cree-un-clip-pour-radiohead-a-partir-de-videos-youtube/
+ [2]: http://www.numerama.com/magazine/23412-gotye-rend-un-bel-hommage-aux-fans-qui-le-piratent.html
+ [3]: http://www.numerama.com/magazine/22944-convertir-des-videos-youtube-en-mp3-les-menaces-de-google.html
+ [4]: http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
+ [5]: http://www.nikopik.com/2012/08/quand-un-artiste-reprend-les-versions-pirates-de-ses-fans-pour-en-faire-un-oeuvre-magnifique.html
+ [6]: http://toc-arts.org/blog/reflexion/collaboration-et-remix/

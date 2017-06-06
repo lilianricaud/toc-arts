@@ -1,0 +1,23 @@
+---
+ID: 8232
+post_title: 'Une fête à la copie pour repenser le droit d&rsquo;auteur'
+author: Lilian
+post_date: 2012-03-06 07:16:43
+post_excerpt: ""
+layout: post
+permalink: >
+  http://toc-arts.org/blog/2012/03/06/une-fete-a-la-copie-pour-repenser-le-droit-dauteur/
+published: true
+---
+*La bibliothèque de la Roche-sur-Yon organise une rencontre originale pour faire réfléchir sur le droit d'auteur.* Des débuts de la musique enregistrée à l'apparition d'internet, le droit d'auteur a été ces dernières années un pilier de la rémunération des artistes et des industriels de la culture. Mais aujourd'hui le paysage a changé. [L'internet est une gigantesque machine à copier][1] et le public à les moyens et l'envie de partager de nombreuses œuvres . On peut le regretter et voir ce que l'on perd, comme les industriels qui se battent contre leurs clients pour sauver leur modèle économique ou voir le positif, [la promotion des artistes par les fans][2], [le financement de projets artistique par les fans][3], [de nouveaux modèles économiques basés sur la gratuité et le partage ][4]qui commencent à se dessiner ou encore la [culture du remix ][5]qui invente de nouveaux genres. Dans ce contexte, il est souhaitable d'avoir une réflexion sur le rôle que doit jouer le droit d'auteur. D'où l'initiative originale de la bibliothèque de la Roche-sur-Yon, qui organise une [Copy Party, la première « Fête à la Copie »][6] ! Résumé par [Lionel Maurel][7], l'un des organisateurs: 
+> *la Copy Party  une manifestation qui aura lieu le 7 mars prochain, à la Bibliothèque Universitaire de la Roche Sur Yon, et au cours de laquelle les lecteurs seront invités à copier, avec leur propre matériel (scanners, ordinateurs portables, appareils photos, smartphones, etc) des documents issus des collections de l’établissement. Ce sera l’occasion de sensibiliser les participants à la problématique du droit d’auteur à l’heure du numérique et de réfléchir aux enjeux de la circulation et du partage des savoirs. D’un point de vue juridique, la Copy Party s’inscrit complètement dans un cadre légal, car elle s’appuie sur l’exception de copie privée, telle qu’elle a été modifiée à la fin de l’année dernière.* (...) *La première intention est de sensibiliser les participants aux questions liées au droit d’auteur et à la diffusion des savoirs, en prenant cette manifestation comme un cas pratique. Nous allons en effet rapidement nous rendre compte que même en accédant à des « sources légales », bénéficier de la copie privée reste une chose compliquée. En effet, les règles sont susceptibles de changer selon les types de documents (livres, CD, DVD, jeux vidéo, logiciels, bases de donnée, etc). Il est aussi possible que nous nous heurtions à des DRM, qui empêcheront la reproduction. Il y a aussi la question de l’usage que l’on peut faire des copies réalisées dans ce cadre, qui reste très restrictif (elles doivent être « réservées à l’usage du copiste et non destinées à une utilisation collective »). Ces difficultés vont certainement nous amener « en creux » à réfléchir sur les justifications de ces restrictions à l’accès au savoir, dans le cadre d’une bibliothèque. Plus largement, l’acte de copie devient de plus en plus problématique, parce que la propriété intellectuelle, ébranlée par l’environnement numérique, ne parvient pas à retrouver ses assises, malgré le durcissement continu du système...*[Lire la suite de la présentation sur Framablog...][8] Moi je reste persuadé que [le partage des oeuvres favorise la richesse et la diversité culturelle][9] et qu'une adaptation du droit d'auteur aux nouveaux usages est fondamentale pour bâtir les nouveaux modèles économiques équitable pour les artistes. J’espère donc voir de telles initiatives se multiplier pour que la discussion soit lancée.
+
+ [1]: http://toc-arts.org/blog/2008/03/28/reflexion-mieux-que-gratuit-le-business-model-reinvente/
+ [2]: http://toc-arts.org/blog/2008/05/02/diffusion-prescriptive-le-diffuseur-20-est-l%e2%80%99avenir-des-l%e2%80%99artistes/
+ [3]: http://toc-arts.org/blog/2011/09/19/le-crowdfunding-pour-les-artistes/
+ [4]: http://toc-arts.org/blog/2009/08/10/un-autre-monde-musical-est-possible-nous-dit-trent-reznor-framablog/
+ [5]: http://toc-arts.org/blog/2011/05/27/les-remix-et-mashup-de-videos-musicales-une-nouvelle-tendance/
+ [6]: http://bit.ly/copyparty
+ [7]: http://twitter.com/Calimaq
+ [8]: http://www.framablog.org/index.php/post/2012/03/05/copy-party
+ [9]: http://toc-arts.org/blog/2008/03/14/droit-dauteur-le-piratage-favorise-la-creativite-culturelle/

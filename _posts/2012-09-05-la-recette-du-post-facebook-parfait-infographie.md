@@ -1,0 +1,18 @@
+---
+ID: 8859
+post_title: 'La recette du post Facebook parfait [Infographie]'
+author: Lilian
+post_date: 2012-09-05 07:19:36
+post_excerpt: ""
+layout: post
+permalink: >
+  http://toc-arts.org/blog/2012/09/05/la-recette-du-post-facebook-parfait-infographie/
+published: true
+---
+*La traduction et l'adaptation d'une infographie présentant des astuces pour publier sur Facebook. * Rien de très nouveau si vous avez déjà lu le **<a href="http://toc-arts.org/blog/2010/04/14/promouvoir-et-vendre-sa-musique-sur-facebook/" rel="bookmark" data-bitly-type="bitly_hover_card">guide pour promouvoir et vendre sa musique sur Facebook</a>,** mais néanmoins un bon résumé avec un format agréable.   [<img class="aligncenter size-full wp-image-8860" title="recette-du-post-facebook-parfait" src="http://toc-arts.org/blog/wp-content/uploads/2012/07/recette-du-post-facebook-parfait.jpg" alt="" width="622" height="980" />][1]   N'oubliez pas que vos mises à jour sur Facebook ont une durée de vie très éphémère et qu'à cause du **filtre edgerank**, un faible pourcentage de vos contacts voient réellement vos mises à jour (Lire: <a href="http://toc-arts.org/blog/2011/11/09/pourquoi-vous-etes-surement-invisible-sur-facebook/" rel="bookmark" data-bitly-type="bitly_hover_card">Pourquoi vous êtes (surement) invisible sur Facebook…</a> ) Rappellez vous aussi que malgré toutes les optimisations du monde, vous devez être avant tout avoir quelque chose d'"interessant" à dire pour vos fans, notion relative, mais importante. Dernier point: je prédis que **Facebook a atteint son apogée** et que nous allons bientôt observer un déclin et une mort à la myspace. J'en reparlerai. En attendant, **ne misez pas tout sur Facebook,** et n'oubliez pas de [travailler votre mailing list ou votre newsletter][2].   
+## Contenu texte de l'infographie
+
+**La recette du post Facebook parfait (Image)** **Contenu de la mise à jour:** Garder le texte court avec un ton personnel. Limitez à 90 caractères, ou faites en sorte que votre lien est dans les 90 premiers caractètes. Astuce: augmentez les retours en posant une question. **Cibler:** Pour les mise à jour lié a un pays ou un langage particulier, cibler votre article. **Appel à agir:** Inclure un lien dans votre mise à jour.Pointez vers Facebook, un blog ou une page web. Astuce: raccourcissez votre lien grâce à Bit.ly **Ajouter une image:** Charger une image de 300 X 300 pixels de large au minimum. Astuce: utilisez des images ou des photos marquantes, colorées (rouge, orange...) des portrait de gens, pas de logos. **Interagir:** La mise à jour est juste le début ! Prolonger l’interaction en ajoutant une question ou un commentaire à la conversation. **Promotion:** Propulsez votre mise à jour grâce à la publicité dans les premières 24h pour atteindre un plus grand pourcentage de vos fans. Astuce: utilisez une image carrée pour un meilleur aspect dans les publicités. **Penser mobile:** Près de 70% de vos fans verront vos mises à jour sur un appareil mobile. Astuce: utilisez des images, des textes courts, des questions auxquelles on peut répondre par oui/non des vidéos courtes pour une interaction en 1 clic facile sur portable. **Mesurer les résultats:** Utiliser les outils de statistiques fournis par Facebook pour mesurer quelles mises à jour ont le plus de succès. Essayez de comparer avec des pages équivalentes à la votre pour voir où vous vous situez.
+
+ [1]: http://toc-arts.org/blog/wp-content/uploads/2012/07/recette-du-post-facebook-parfait.jpg
+ [2]: http://virginieberger.com/2011/02/artistes-comment-creer-et-gerer-votre-mailing-list-et-votre-newsletter/
